@@ -1,10 +1,12 @@
 <template>
-  <Header />
-  <div class="container">
-    <Balance />
-    <IncomeExpense />
-    <TransactionList />
-    <AddTransaction />
+  <div class="">
+    <Header />
+    <div class="container">
+      <Balance />
+      <IncomeExpense />
+      <TransactionList />
+      <AddTransaction />
+    </div>
   </div>
 </template>
 
