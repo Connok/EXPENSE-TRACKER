@@ -10,6 +10,9 @@
       />
       <AddTransaction @transaction-submitted="handleTransactionSubmitted" />
     </div>
+    <footer>
+      Written By <a href="https://github.com/Connok">Connor McCarthy</a>
+    </footer>
   </div>
 </template>
 
